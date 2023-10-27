@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marioatmajanugrahaa ( Mario Atmaja Nugraha ) 
 - 👀 I’m interested in ...
-- Cybersecurity, Coding, Trading, Automation Programming!
+- Cybersecurity, Coding, Automation Programming and Trading on Forex!
 - 
 - 🌱 I’m currently learning ...
 - JavaScript, Python, C#
